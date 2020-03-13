@@ -18,7 +18,7 @@ largura4 = float(input("Digite a lagura do quarto comodo: "))
 comp4 = float(input("Digite o comprimento do quarto comodo: "))
 r4 = largura4 * comp4
 
-print("O primeiro comodo mede %.2f cm²" % r1)
+print("O primeiro comodo mede %.2f ²" % r1)
 print("O segundo comodo mede %.2f cm²" % r2)
 print("O terceiro comodo mede %.2f cm²" % r3)
 print("O quarto comodo mede %.2f cm²" % r4)
