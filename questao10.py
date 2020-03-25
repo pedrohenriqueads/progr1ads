@@ -7,4 +7,5 @@ novoSalario  =  salario  + (( salario * reajuste ) / 100 )
 aumento  =  novoSalario  -  salario
 
 print("Aumento de %.2f $" % aumento)
+
 print("Novo salário %2.f $" % novoSalario)

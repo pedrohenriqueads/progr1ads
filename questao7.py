@@ -24,4 +24,5 @@ print("O terceiro comodo mede %.2f m²" % r3)
 print("O quarto comodo mede %.2f m²" % r4)
 
 area_total = (largura1 + largura2 + largura3 + largura4) * (comp1 + comp2 + comp3 + comp4)
+
 print("A area total da casa é %.2f m²" % area_total)
