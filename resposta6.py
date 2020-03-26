@@ -1,4 +1,3 @@
-#from math import *
 import math
 print("Equaçao do 2° grau da forma: ax² + bx + c")
 print("")    
