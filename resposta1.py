@@ -22,3 +22,4 @@ print("Salário antes do reajuste:", salario)
 print("Salário reajustado:", salario_reaj)
 print("Valor do reajuste:", reajv)
 print("Porcentagem do reajuste:", porc)
+
