@@ -1,4 +1,6 @@
-#Questão 7
+#7. Faça um programa que calcule a área total (m​2​) de uma casa com 4 cômodos.
+#O usuário deve inserir a largura e comprimento de cada um dos cômodos,
+#calcular a área individual de cada um e por fim exibir a área total da casa.
 
 print("Olá") #apresentação
 
