@@ -2,4 +2,4 @@
 
 temp_f = float(input("Digite a temperatura em fahrenheit: "))
 celsius = 5 * (temp_f - 32) / 9
-print("A temperatura em celsius é %.2f graus" % celsius)
+print("A temperatura em celsius é %.f graus" % celsius)
